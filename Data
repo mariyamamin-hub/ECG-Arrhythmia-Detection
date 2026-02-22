@@ -1,0 +1,9 @@
+Dataset: MIT-BIH Arrhythmia Database
+Source: PhysioNet
+
+To download:
+1. Visit PhysioNet
+2. Search MIT-BIH Arrhythmia Database
+3. Download records (e.g., 100.dat, 100.hea, 100.atr)
+
+The dataset is not uploaded here due to GitHub file size limits.
